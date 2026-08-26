@@ -1,0 +1,69 @@
+# Compiled output
+*.class
+out/
+target/
+build/
+
+# IDE files - IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+.idea/
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+.settings/
+.classpath
+.project
+
+# Log files
+*.log
+*.log.*
+
+# OS files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Distribution
+*.zip
+*.tar.gz
+*.rar
+
+# Backup files
+*.bak
+*.backup
+
+# Temporary files
+*~
+*.orig
+
+# Maven
+pom.xml
+pom.xml.versionsBackup
+
+# Gradle
+.gradle/
+build/
+
+# JUnit
+*.lock
+
+# Database
+*.db
+*.sqlite
+
+# All your personal folders (DO NOT TRACK)
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+AppData/
+.anaconda/
+.cache/
+.ssh/
+.vscode/
