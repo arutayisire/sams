@@ -1,13 +1,6 @@
 **# Student Academic Management System (SAMS)**
 
 
-
-\[!\[Java](https://img.shields.io/badge/Java-17%2B-orange)](https://adoptium.net/)
-
-\[!\[JUnit](https://img.shields.io/badge/JUnit-5-green)](https://junit.org/junit5/)
-
-
-
 **## Overview**
 
 
